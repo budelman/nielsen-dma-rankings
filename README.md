@@ -1,4 +1,4 @@
-This is the map of Nielen [Designated Marketing Areas](http://en.wikipedia.org/wiki/Media_market) using D3.js. Hover over an area for the corresponding data related to each marketing area. 
+This is the map of Nielsen [Designated Marketing Areas](http://en.wikipedia.org/wiki/Media_market) using D3.js. Hover over an area for the corresponding data related to each marketing area. 
 
 [View live map](http://bl.ocks.org/simzou/6459889)
 
